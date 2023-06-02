@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node backend/server.js",
-    "server": "npx nodemon server"
+    "server": "nodemon backend/server.js"
   },
   "author": "",
   "license": "ISC",
